@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: manjari.spark.sql.cnt_of_txt_files
+

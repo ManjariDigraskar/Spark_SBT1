@@ -1,0 +1,7 @@
+Spark,Data
+WARN|message
+ERROR|MESSAGE
+WARN|rerjhgiwrjhgrw
+WARN|frjkgrbgw
+ERROR|efwjknwrgw
+INFO|information

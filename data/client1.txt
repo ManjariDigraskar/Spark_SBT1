@@ -1,0 +1,4 @@
+Id,account_number,DOJ,status
+1,101010,2012-7-20,Active
+2,123123,2012-6-15,Closed
+3,414141,2012-1-10,Active

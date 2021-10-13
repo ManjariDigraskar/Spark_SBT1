@@ -1,0 +1,7 @@
+Col1|Col2
+WARN|message
+ERROR|MESSAGE
+WARN|rerjhgiwrjhgrw
+WARN|frjkgrbgw
+ERROR|efwjknwrgw
+INFO|information

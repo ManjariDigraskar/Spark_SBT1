@@ -1,0 +1,8 @@
+emp_id,emp_name,emp_sal,emp_dep_id
+1,Rahul,5000,3
+2,Suraj,6000,2
+4,Manoj,3000,3
+5,Rajesh,8000,1
+6,Sumit,5500,2
+7,Deepak,4500,1
+8,Rakhi,5700,3

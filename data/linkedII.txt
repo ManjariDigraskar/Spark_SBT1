@@ -1,0 +1,16 @@
+empid,fn,ln,Bossid
+001,Rohit,Singh,004
+002,Kartik,Sharma,003
+003,Rashmi,Desai,005
+004,Rahul,Kumar,002
+005,Amit,Kumar,006
+006,Sujith,D,004
+007,Ram,Avtar,008
+008,Upal,Ved
+
+
+
+
+
+
+

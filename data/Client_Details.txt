@@ -1,0 +1,6 @@
+account_number,name,address,created_date
+101010,Magnus Carlsen,Bergen-Norwegian,2012-07-20
+123123,Mikhail Tal,Riga-Latvian,2012-06-15
+414141,Viswanathan Anand,Bangalore-India,2012-01-10
+414141,Viswanathan Anand,Chennai-India,2019-10-10
+101010,Magnus Carlsen,Kristiansand-Norwegian,2020-07-20

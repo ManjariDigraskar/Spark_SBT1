@@ -1,0 +1,7 @@
+Person Friend
+A B
+A B
+B A
+A C
+B C
+C B

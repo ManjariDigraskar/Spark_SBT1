@@ -1,0 +1,6 @@
+dep_id,dep_name
+1,HR
+2,Admin
+3,Manager
+4,Clerk
+5,Developer
